@@ -1,6 +1,6 @@
 # Skeletal Age & Ethnicity Estimation from Hand X-Rays
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pablozh123/deep-learning-Knochenstrukur/blob/main/2_0.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pablozh123/skeletal-age-estimation/blob/main/2_0.ipynb)
 
 A multi-task deep learning system that predicts a patient's **age** and **ethnicity** from a single hand X-ray image — with no other clinical data required.
 
