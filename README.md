@@ -74,7 +74,8 @@ The ResNet18 model estimates age with an **average error of just 1.22 years** on
 
 ### Prerequisites
 - Google account with Google Drive access
-- Dataset CSV (`datastats.csv`) and images placed in `MyDrive/Data/`
+- Dataset CSV at `MyDrive/datastats.csv` and hand X-ray images in `MyDrive/DigitalHandAtlas/`
+  (the notebook's setup cell asserts both paths exist and fails immediately otherwise)
 
 ### Steps
 
